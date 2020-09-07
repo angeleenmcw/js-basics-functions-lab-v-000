@@ -11,8 +11,10 @@ function distanceFromHqInFeet(block) {
 }
 
 function distanceTravelledInFeet(A,Z) {
-  If (Z >= A) {
+  if (Z >= A) {
     return Z - A * 264;
-  } else 
+  } else {
+    return A - B * 264;
+  }
   
 }
