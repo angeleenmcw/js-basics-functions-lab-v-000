@@ -6,8 +6,10 @@ function distanceFROMHqInBlocks(block) {
     }
   }
 
-function distanceFromHqInFeet() {
-  let feet = 264;
-  let location = "below 42nd Street";
-  console.log(`the distance is ${feet} feet located ${location}`);
+function distanceFromHqInFeet(block) {
+  return distanceFROMHqInBlocks * 264;
+}
+
+function distanceTravelledInFeet() {
+  
 }
