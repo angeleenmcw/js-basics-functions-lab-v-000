@@ -10,6 +10,6 @@ function distanceFromHqInFeet(block) {
   return distanceFROMHqInBlocks * 264;
 }
 
-function distanceTravelledInFeet() {
-  
+function distanceTravelledInFeet(A,Z) {
+  If (A)
 }
