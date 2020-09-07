@@ -11,5 +11,7 @@ function distanceFromHqInFeet(block) {
 }
 
 function distanceTravelledInFeet(A,Z) {
-  If (A)
+  If (Z >= A) {
+    return 
+  }
 }
