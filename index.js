@@ -19,6 +19,6 @@ function distanceTravelledInFeet(A,Z) {
   
 }
 
-function calculatesFarePrice(block) {
+function calculatesFarePrice(start, end) {
   distanceTravelledInFeet
 }
