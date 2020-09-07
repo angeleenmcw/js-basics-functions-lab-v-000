@@ -1,5 +1,5 @@
-function distanceFROMHqInBlocks() {
-  if 
+function distanceFROMHqInBlocks(block) {
+  if (block)
 
 function distanceFromHqInFeet() {
   let feet = 264;
