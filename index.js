@@ -1,9 +1,5 @@
 function distanceFROMHqInBlocks() {
-  let blocks = 8;
-  let location = "below 42nd Street";
-  console.log(`The distance is ${blocks} blocks located ${location}`);
-  
-}
+  if 
 
 function distanceFromHqInFeet() {
   let feet = 264;
