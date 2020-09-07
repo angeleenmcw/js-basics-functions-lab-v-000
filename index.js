@@ -1,7 +1,7 @@
 function distanceFROMHqInBlocks(block) {
   if (block >= 42) {
     return 42;
-    
+  }
   }
 
 function distanceFromHqInFeet() {
